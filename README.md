@@ -49,7 +49,7 @@ Es la principal forma en que interactúan muchos usuarios con Docker. Cuando usa
 
     #### *Comando para crear una imagen*
 
-        docker build <opciones> . 
+        docker build <opciones> <ruta/del/archivo> 
     *el punto especifica que el dockerfile se encuentra en nuestra ubicacion actual*
 
     #### *Opciones:* 
